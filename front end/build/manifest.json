@@ -1,6 +1,6 @@
 {
-  "short_name": "Alok Mattihalli",
-  "name": "Create React App Sample",
+  "short_name": "ALOK MATTIHALLI",
+  "name": "Personal PortFolio..",
   "icons": [
     {
       "src": "../src/assets/images/logo.png",
@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "/index.html",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
