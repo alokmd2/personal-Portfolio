@@ -43,7 +43,7 @@ const Education = () => {
           <p className="text-sm text-designColor tracking-[4px]"></p>
           <h2 className="text-3xl md:text-4xl font-bold">Internships</h2>
         </div>
-        <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+        <div className="mt-6 lgl:mt-10 w-full h-[800px] border-l-[4px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Full Stack Developer"
             subTitle="Wipro - (2022 - 2023)"
